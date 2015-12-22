@@ -1,0 +1,23 @@
+{
+  "name": "modulus-uno-theme",
+  "authors": [
+    "neodevelop <neodevelop@gmail.com>"
+  ],
+  "description": "CSS y JS de Modulus Uno",
+  "main": [
+    "js/flex.js",
+    "css/plugin.css",
+    "css/style.css"
+  ],
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "private": true
+}
