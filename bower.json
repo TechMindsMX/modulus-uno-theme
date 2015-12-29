@@ -14,6 +14,7 @@
   "homepage": "",
   "ignore": [
     "**/.*",
+    "**/*.html",
     "node_modules",
     "bower_components",
     "test",
